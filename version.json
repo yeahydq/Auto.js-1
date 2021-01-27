@@ -1,5 +1,5 @@
 ﻿{
-  "versionCode": 163,
+  "versionCode": 164,
   "versionName": "2.0.16 Beta2",
   "releaseNotes": "* 优化root录制，录制脚本接近完美，可自行录制游戏脚本\n* 提高部分脚本的运行速度\n* 新增 按键事件、通知事件监听\n*修复 一些问题",
   "downloads" : [
